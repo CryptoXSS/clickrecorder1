@@ -17,3 +17,5 @@ Small script to record the positions of mouse clicks and repeat them automatical
 - pyautogui
 - pynput
 - numpy
+- sudo apt-get install python-tk
+- sudo apt-get install python3-tk
